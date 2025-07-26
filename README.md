@@ -1,7 +1,6 @@
 # mySQLcheat 
 p {
   word-break: normal;
-}
 SHOW DATABASES  -  Показать все базы данных
 CREATE DATABASE имя - Создать новую базу данных
 USE имя_базы - Выбрать базу данных для работы
@@ -43,3 +42,4 @@ SHOW INDEX FROM таблица - Показать индексы таблицы
 CREATE USER 'имя'@'хост' IDENTIFIED BY 'пароль' - Создать пользователя
 DROP USER 'имя'@'хост' - Удалить пользователя
 SHOW GRANTS FOR 'имя'@'хост' - Показать права пользователя
+}

@@ -1,4 +1,7 @@
 # mySQLcheat 
+p {
+  word-break: normal;
+}
 SHOW DATABASES  -  Показать все базы данных
 CREATE DATABASE имя - Создать новую базу данных
 USE имя_базы - Выбрать базу данных для работы
